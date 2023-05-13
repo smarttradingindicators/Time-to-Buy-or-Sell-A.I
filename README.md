@@ -1,4 +1,4 @@
-# 🚀 Time to Buy or Sell A.I.
+# 🚀 Time to Buy or Sell A.I
 
 ![Buy or Sell Estimation](Time%20To%20Buy%20And%20Sell%201D.png)
 
