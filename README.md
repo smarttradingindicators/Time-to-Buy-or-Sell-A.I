@@ -35,6 +35,13 @@ For better understanding and use of our indicator, we recommend the following re
 
 We're excited to hear from you! For questions, feedback, or suggestions, please reach out to us at support@smarttradingindicators.com.
 
+## 📱 Social Media
+
+Follow us on our social media platforms for the latest updates and insights:
+
+- [Instagram: @smarttradingindicators](https://instagram.com/smarttradingindicators?igshid=OGQ5ZDc2ODk2ZA==)
+- [Twitter: @smartindicators](https://twitter.com/smartindicators)
+
 ## 🔒 Note on Code Access
 
 Please note that the code for the Time to Buy or Sell A.I. indicator is proprietary and not publicly accessible. For inquiries related to the code or if you need further information, please do not hesitate to contact us at support@smarttradingindicators.com. We appreciate your understanding.
